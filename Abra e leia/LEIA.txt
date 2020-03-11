@@ -1,0 +1,1 @@
+Coloque essa dll na pasta princiapal(ProjectinAtomo), para o projeto reconhecer.
